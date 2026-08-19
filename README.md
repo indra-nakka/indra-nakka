@@ -45,7 +45,7 @@ Relocated to India for family reasons. Continued independent technical work thro
 - Authored an authentication change forcing session re-authentication when an administrator changes a user's role or disables their account, within a Keycloak OIDC / RBAC model spanning seven roles.
 - Fixed the Docker Compose stack for cross-platform checkouts; reviewed and merged feature branches covering mobile responsiveness, security audit fixes and deployment configuration.
 
-#### Product Manager — RenewAvia (India) / HydroAvia (US) · Jul 2024 – Dec 2024
+#### Product Manager — *Drone Startup* · Jul 2024 – Dec 2024
 *Hydrogen-powered autonomous drone platform — first technical hire*
 
 - Joined as first employee and defined the product and technical roadmap for an autonomous drone swarm targeting forestry survey and mapping.
