@@ -1,6 +1,6 @@
 # INDRA DEV NAKKA
 
-Hyderabad, India · indradevnakka@gmail.com · [phone] · linkedin.com/in/[handle] · github.com/[handle]
+Hyderabad, India · indradevnakka@gmail.com · +91 7799339777 · linkedin.com/in/indra-nakka · github.com/indra-nakka
 
 ---
 
@@ -54,17 +54,17 @@ Relocated to India for family reasons. Continued independent technical work thro
 
 ### Accessibility Engineer
 **Tata Consultancy Services** — Bloomington, IL, USA | Client: State Farm
-**Aug 2020 – May 2022**
+**Sep 2019 – Feb 2021**
 
 - Audited web and mobile applications against WCAG and Section 508 for a Fortune 100 insurance client, producing detailed remediation reports for engineering teams.
-- Built internal scripts that automated large parts of the manual audit workflow, cutting review time per application from [N hours] to [N hours].
+- Built internal scripts that automated large parts of the manual audit workflow, cutting review time per page from 4-8 hours to 1-5 minutes.
 - Worked directly with product and development teams to translate accessibility findings into specific code-level fixes.
 
 ---
 
 ### Learning Experience Designer
 **Sitecore** — San Francisco, CA, USA | Part-time alongside M.S. coursework
-**Jan 2018 – Apr 2020**
+**Feb 2018 – Jul 2019**
 
 - Redesigned the training and certification curriculum for Sitecore's developer platform, covering course structure, technical content and assessment material.
 - Authored hands-on technical exercises and evaluation rubrics used to certify external developers on the platform.
@@ -73,7 +73,7 @@ Relocated to India for family reasons. Continued independent technical work thro
 
 ### Software Engineer — Full Stack
 **TechAspect Solutions** — Hyderabad, India | Client: Texas Instruments
-**Jun 2014 – Dec 2017**
+**Aug 2014 – Mar 2017**
 
 - Built TutoMath, a full-stack web learning application teaching secondary-school students to use TI colour graphing calculators — owned both front end and backend.
 - Developed backend services, data validation layers and database access code in Java against MySQL and PostgreSQL.
@@ -89,19 +89,3 @@ Relocated to India for family reasons. Continued independent technical work thro
 **B.Tech, Computer Science & Engineering** — GITAM University, Visakhapatnam, India · 2014
 
 Software Engineering Intern, Semantic Space (Hyderabad) — built a Java resume-parsing tool using bag-of-words keyword and token extraction.
-## Hi there 👋
-
-<!--
-**indra-nakka/indra-nakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
